@@ -77,5 +77,7 @@ retail-sales-return-dashboard/
 └── screenshots/                          # High-resolution dashboard views
 ---
 
+---
+
 ## 🎥 Dashboard Interactive Demo
 [Watch the Interactive Dashboard Walkthrough Video](https://github.com/tehreem1306/Retail-Sales-Return-Analysis-PowerBI/blob/main/Retail%20sales%20Return%20Performance%20Dashboard%20video.mp4)
