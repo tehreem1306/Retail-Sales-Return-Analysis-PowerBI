@@ -75,21 +75,5 @@ retail-sales-return-dashboard/
 ├── Dashboard_Demo.mp4                    # Screen recording of interactive slicers & KPIs
 ├── README.md                             # Project documentation & business insights
 └── screenshots/                          # High-resolution dashboard views
----
 
 ---
-
-retail-sales-return-dashboard/
-│
-├── Retail_Sales_Return_Dashboard.pbix    # Interactive Power BI Report
-├── Dashboard_Demo.mp4                    # Screen recording of interactive slicers & KPIs
-├── README.md                             # Project documentation & business insights
-└── screenshots/                          # High-resolution dashboard views
----
-
----
-
----
-
-<h2>🎥 Dashboard Interactive Demo</h2>
-<p><a href="https://github.com/tehreem1306/Retail-Sales-Return-Analysis-PowerBI/blob/main/Retail%20sales%20Return%20Performance%20Dashboard%20video.mp4" target="_blank">👉 Click here to watch the Interactive Dashboard Walkthrough Video</a></p>
